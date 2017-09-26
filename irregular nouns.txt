@@ -1,0 +1,338 @@
+	roof	→	roofs	屋顶
+	gulf	→	gulfs	海湾
+	grief	→	griefs	悲伤,	悲痛,	担心
+	cliff	→	cliffs	悬崖,	峭壁
+	beef	→	beefs	牛肉
+	chief	→	chiefs	首长,	首领
+	proof	→	proofs	证明
+	staff	→	staffs	全体职员
+	fireman	→	firemen	消防员
+	foot	→	feet	脚
+	goose	→	geese	鹅
+	tooth	→	teeth	牙齿
+	mouse	→	mice	老鼠
+	louse	→	lice	虱子
+	child	→	children	小孩,	儿童
+	ox	→	oxen	牛,	阉牛
+	auto	→	autos	[美口]汽车
+	kangaroo	→	kangaroos	袋鼠
+	kilo	→	kilos	千克,	公斤
+	memo	→	memos	[口]备忘录
+	photo	→	photos	照片
+	piano	→	pianos	钢琴
+	pimento	→	pimentos	多香果
+	pro	→	pros	赞成意见
+	con	→	cons	反对意见
+	solo	→	soli	独唱,	独奏
+	solo	→	solos	独唱,	独奏
+	soprano	→	sopranos	女高音
+	studio	→	studios	工作室
+	tattoo	→	tattoos	文身
+	video	→	videos	视频
+	zoo	→	zoos	动物园
+	bamboo	→	bamboos	竹子
+	echo	→	echoes	回声,	反响
+	embargo	→	embargoes	禁运,	禁运令
+	hero	→	heroes	英雄
+	potato	→	potatoes	土豆
+	tomato	→	tomatoes	番茄
+	torpedo	→	torpedoes	鱼雷,	水雷
+	veto	→	vetoes	否决,	否决权
+	negro	→	negroes	黑人
+	cod	→	cod	鳕鱼
+	deer	→	deer	鹿
+	fish	→	fish	鱼,	鱼类
+	offspring	→	offspring	子孙,	后裔,	幼崽
+	perch	→	perch	鲈鱼
+	sheep	→	sheep	绵羊
+	trout	→	trou	鲑鱼
+	bison	→	bison	野牛
+	moose	→	moose	驼鹿
+	aircraft	→	aircraft	飞机,	飞行器
+	barracks	→	barracks	兵营
+	crossroads	→	crossroads	十字路口
+	dice	→	dice	骰子
+	gallows	→	gallows	绞刑架
+	headquarters	→	headquarters	总部
+	means	→	means	方法,	手段,	途径
+	series	→	series	系列
+	species	→	species	物种
+	alga	→	algae	水藻
+	larva	→	larvae	(昆虫的)幼虫
+	alumna	→	alumnae	女校友
+	tableau	→	tableaus	舞台造型,	场景
+	tableau	→	tableaux	舞台造型,	场景
+	plateau	→	plateaus	高原,	平顶
+	plateau	→	plateaux	高原,	平顶
+	corpus	→	corpora	资料,	文集,	文献
+	genus	→	genera	(动植物的)属,	类
+	alumnus	→	alumni	校友
+	bacillus	→	bacilli	杆菌
+	cactus	→	cacti	仙人球,仙人掌
+	cactus	→	cactuses	仙人球,仙人掌
+	focus	→	foci	焦点
+	fungus	→	funguses	真菌
+	fungus	→	fungi	真菌
+	nucleus	→	nuclei	核心,	原子核
+	octopus	→	octopuses	章鱼
+	octopus	→	octopi	章鱼
+	radius	→	radiuses	半径
+	radius	→	radii	半径
+	stimulus	→	stimuli	刺激物,	促进因素
+	syllabus	→	syllabuses	大纲,	提纲
+	syllabus	→	syllabi	大纲,	提纲
+	terminus	→	termini	终点,	目标,	界碑
+	hippopotamus	→	hippopotami	河马
+	genius	→	geniuses	天才
+	genius	→	genii	天才
+	addendum	→	addenda	附录,	补遗
+	bacterium	→	bacteria	细菌
+	curriculum	→	curriculums	总课程
+	curriculum	→	curricula	总课程
+	datum	→	data	数据
+	erratum	→	errata	写错,	排错,	勘误
+	medium	→	media	媒体
+	ovum	→	ova	卵子,	卵细胞
+	stratum	→	stratums	岩层,	地层,	阶层
+	stratum	→	strata	岩层,	地层,	阶层
+	symposium	→	symposiums	座谈会
+	symposium	→	symposia	座谈会
+	agendum	→	agenda	议程
+	vacuum	→	vacuums	真空,	空虚,	空白
+	vacuum	→	vacua	真空,	空虚,	空白
+	gymnasium	→	gymnasia	健身房,	体育馆
+	minimum	→	minima	最小量
+	ultimatum	→	ultimatums	最后通牒
+	ultimatum	→	ultimata	最后通牒
+	apex	→	apexes	顶点
+	apex	→	apices	顶点
+	appendix	→	appendixes	附录
+	appendix	→	appendices	附录
+	cervix	→	cervixes	宫颈
+	cervix	→	cervices	宫颈
+	index	→	indexes	目录,	索引
+	index	→	indices	目录,	索引
+	matrix	→	matrixes	模型,	矩阵
+	matrix	→	matrices	模型,	矩阵
+	vortex	→	vortices	漩涡
+	vortex	→	vortexes	漩涡
+	analysis	→	analyses	分析,	解析,	纲领
+	axis	→	axes	轴线,	中心线
+	basis	→	bases	基础,	底座,	基点
+	crisis	→	crises	危机,	危机时刻
+	diagnosis	→	diagnoses	诊断法,	诊断结论
+	emphasis	→	emphases	强调,	重点
+	hypothesis	→	hypotheses	假设,	猜想
+	neurosis	→	neuroses	神经机能病/官能症
+	oasis	→	oases	绿洲,	乐土
+	parenthesis	→	parentheses	插入语,	圆括号
+	synopsis	→	synopses	摘要,	大纲
+	thesis	→	theses	论文,	论题,	论点
+	ellipsis	→	ellipses	[语]省略
+	synthesis	→	syntheses	综合,	合成
+	criterion	→	criteria	(批评/判断的)标准
+	phenomenon	→	phenomena	现象,	征兆
+	automaton	→	automata	机器人,	机械手
+	libretto	→	libretti	(歌剧等的)剧本
+	tempo	→	tempi	拍子,	节奏,	速度
+	virtuoso	→	virtuosos	艺术家
+	virtuoso	→	virtuosi	艺术家
+	concerto	→	concerti	协奏曲
+	cherub	→	cherubim	小天使
+	seraph	→	seraphim	六翼天使
+	schema	→	schemata	概要,	计划,	图表
+	stigma	→	stigmata	耻辱的标记,	瑕疵
+	abacus	→	abacuses	算盘
+	abacus	→	abaci	算盘
+	addendum	→	addenda	附录,	补遗
+	agendum	→	agenda	议程
+	aircraft	→	aircraft	飞机,	飞行器
+	alga	→	algae	水藻
+	alumna	→	alumnae	[美]女校友
+	alumnus	→	alumni	校友
+	analysis	→	analyses	分析,	解析,	纲领
+	antenna	→	antennae	天线,	触角
+	antenna	→	antennas	天线,	触角
+	apex	→	apexes	顶点
+	apex	→	apices	顶点
+	appendix	→	appendices	附录
+	appendix	→	appendixes	附录
+	automaton	→	automata	机器人,	机械手
+	axis	→	axes	轴线,	中心线
+	bacillus	→	bacilli	杆菌
+	bacterium	→	bacteria	细菌
+	basis	→	bases	基础,	底座,	基点
+	beau	→	beaus	情郎,	纨绔子弟
+	beau	→	beaux	情郎,	纨绔子弟
+	beef	→	beefs	牛肉
+	bison	→	bison	野牛
+	brace	→	brace	支架,	背带,	花括号
+	sister-in-law	→	sisters-in-law	大小姨子,	大小姑子
+	buffalo	→	buffalos	水牛
+	buffalo	→	buffalo	水牛
+	buffalo	→	buffaloes	水牛
+	bureau	→	bureaus	局,	机构
+	bureau	→	bureaux	局,	机构
+	bus	→	buses	公共汽车
+	bus	→	busses	公共汽车
+	cactus	→	cactuses	仙人球,	仙人掌
+	cactus	→	cacti	仙人球,	仙人掌
+	calf	→	calves	牛犊
+	cargo	→	cargoes	(船/飞机的)货物
+	cargo	→	cargos	(船/飞机的)货物
+	cervix	→	cervices	宫颈
+	cervix	→	cervixes	宫颈
+	cherub	→	cherubim	小天使
+	chief	→	chiefs	首长,	首领
+	child	→	children	儿童,	小孩
+	Chinese	→	Chinese	中国
+	cliff	→	cliffs	悬崖,	峭壁
+	cod	→	cod	鳕鱼
+	corps	→	corps	军队,	特种部队
+	corpus	→	corpora	资料,文集,文献
+	corpus	→	corpuses	资料,文集,文献
+	crisis	→	crises	危机,	危机时刻
+	criterion	→	criteria	(批评/判断的)标准
+	curriculum	→	curricula	总课程
+	curriculum	→	curriculums	总课程
+	datum	→	data	数据
+	deer	→	deer	鹿
+	dice	→	dice	骰子
+	dwarf	→	dwarves	小矮人
+	dwarf	→	dwarfs	小矮人
+	diagnosis	→	diagnoses	诊断法,	诊断结论
+	echo	→	echoes	回声,	反响
+	elf	→	elves	小精灵
+	ellipsis	→	ellipses	[语]省略
+	embargo	→	embargoes	禁运,	禁运令
+	emphasis	→	emphases	强调,	重点
+	erratum	→	errata	写错,	排错,	勘误
+	fireman	→	firemen	消防员
+	fish	→	fishes	鱼,	鱼类
+	fish	→	fish	鱼,	鱼类
+	focus	→	focuses	焦点
+	foot	→	feet	脚
+	formula	→	formulas	公式,	方程式
+	formula	→	formulae	公式,	方程式
+	forum	→	forums	论坛
+	forum	→	fora	论坛
+	fungus	→	funguses	真菌
+	fungus	→	fungi	真菌
+	genus	→	genera	(动植物的)属,	类
+	goose	→	geese	鹅
+	gallows	→	gallows	绞刑架
+	genius	→	geniuses	天才
+	genius	→	genii	天才
+	goosefoot	→	goosefoots	藜
+	grief	→	griefs	悲伤,	悲痛,	担心
+	gulf	→	gulfs	海湾
+	gymnasium	→	gymnasia	健身房,	体育馆
+	half	→	halves	一半
+	halo	→	haloes	光环
+	halo	→	halos	光环
+	headquarters	→	headquarters	总部
+	hero	→	heroes	英雄
+	hippopotamus	→	hippopotamuses	河马
+	hippopotamus	→	hippopotami	河马
+	hoof	→	hooves	蹄
+	hoof	→	hoofs	蹄
+	hypothesis	→	hypotheses	假说,	猜想
+	index	→	indexes	目录,	索引
+	index	→	indices	目录,	索引
+	knife	→	knives	小刀
+	larva	→	larvae	(昆虫的)幼虫
+	leaf	→	leaves	树叶
+	libretto	→	libretti	(歌剧等的)剧本
+	life	→	lives	生命
+	loaf	→	loaves	一块,	一条(面包等)
+	louse	→	lice	虱子
+	looker-on	→	lookers-on	围观者
+	man doctor	→	men doctors	男医生
+	manservant	→	menservants	男仆
+	man-time	→	men-times	人次
+	man-day	→	man-days	人日
+	matrix	→	matrixes	模型,	矩阵
+	matrix	→	matrices	模型,	矩阵
+	means	→	means	方法,	手段,	途径
+	medium	→	media	媒质,	媒介
+	memorandum	→	memorandums	备忘
+	memorandum	→	memoranda	备忘
+	millennium	→	milennia		
+	millennium	→	millenniums	
+	moose	→	moose	驼鹿
+	mosquito	→	mosquitos	蚊子
+	mosquito	→	mosquitoes	蚊子
+	mouse	→	mice	老鼠
+	nebula	→	nebulas	星云
+	nebula	→	nebulae	星云
+	neurosis	→	neuroses	神经机能病/官能症
+	no	→	nos	没有
+	no	→	noes	没有
+	nucleus	→	nuclei	核心,	原子核
+	oasis	→	oases	绿洲,	乐土
+	octopus	→	octopuses	章鱼
+	octopus	→	octopi	章鱼
+	offspring	→	offspring	子孙,	后裔,	幼崽
+	optimum	→	optima	有利条件
+	ovum	→	ova	卵子,	卵细胞
+	ox	→	oxen	牛,	阉牛
+	paralysis	→	paralyses	麻痹,	瘫痪,	中风
+	parenthesis	→	parentheses	插入语,	圆括号
+	penny	→	pence	便士
+	perch	→	perch	鲈鱼
+	person	→	people	人
+	phenomenon	→	phenomena	现象,	征兆
+	radius	→	radii	半径
+	radius	→	radiuses	半径
+	scarf	→	scarfs	围巾,	披肩
+	scarf	→	scarves	围巾,	披肩
+	schema	→	schemata	概要,	计划,	图表
+	seed	→	seeds	种子
+	seed	→	seed	种子
+	self	→	selves	自己
+	seraph	→	seraphim	六翼天使
+	series	→	series	系列
+	sheaf	→	sheaves	[量]	捆,	束,	扎
+	sheep	→	sheep	绵羊
+	shelf	→	shelves	架子,	搁板
+	shrimp	→	shrimp	虾,	小虾
+	scissors	→	scissors	剪刀
+	species	→	species	物种
+	stadium	→	stadia	体育场
+	stadium	→	stadiums	体育场
+	stimulus	→	stimuli	刺激物,	促进因素
+	stratum	→	strata	岩层,	地层,	阶层
+	stratum	→	stratums	岩层,	地层,	阶层
+	Swiss	→	Swiss	瑞士人
+	syllabus	→	syllabi	大纲,	提纲
+	syllabus	→	syllabuses	大纲,	提纲
+	symposium	→	symposia	座谈会
+	symposium	→	symposiums	座谈会
+	synthesis	→	syntheses	综合,	合成
+	synopsis	→	synopses	摘要,	大纲
+	tableau	→	tableaux	舞台造型,	场景
+	tableau	→	tableaus	舞台造型,	场景
+	tempo	→	tempi	拍子,	节奏,	速度
+	terminus	→	termini	终点,	目标,	界碑
+	that	→	those	那个
+	thesis	→	theses	论文,	论题,	论点
+	thief	→	thieves	贼,	小偷
+	this	→	these	这个
+	tooth	→	teeth	牙齿
+	tornado	→	tornados	龙卷风
+	tornado	→	tornadoes	龙卷风
+	torpedo	→	torpedoes	鱼雷,	水雷
+	trout	→	trout	鲑鱼
+	trousers	→	trousers	裤子
+	vacuum	→	vacua	真空,	空虚,	空白
+	vacuum	→	vacuums	真空,	空虚,	空白
+	vertebra	→	vertebrae	脊椎骨
+	vertebra	→	vertebras	脊椎骨
+	veto	→	vetoes	否决,	否决权
+	virtuoso	→	virtuosi	艺术家
+	virtuoso	→	virtuosos	艺术家
+	vita	→	vitae	个人简历,	生活
+	volcano	→	volcanos		火山
+	volcano	→	volcanoes	火山
+	vortex	→	vortices	漩涡
+	vortex	→	vortexes	漩涡
